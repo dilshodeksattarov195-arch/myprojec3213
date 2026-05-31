@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionconnect",
+        "uuid": 15306732,
+        "checksum": "rmrgis"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
